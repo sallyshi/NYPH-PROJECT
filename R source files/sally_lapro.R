@@ -1,6 +1,5 @@
 ## MEng Project
 ## First Modelling Attempt
-## Eeshan Wagh
 
 ## Last Modified: February 2nd, 2014
 library(car)
